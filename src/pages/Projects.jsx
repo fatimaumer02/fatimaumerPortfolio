@@ -32,7 +32,7 @@ export default function Projects() {
       description: "A modern and responsive restaurant website showcasing menus, services, and reservations. Built with HTML, CSS, and JavaScript for a seamless user experience.",
       image: restaurant,
       technologies: ["HTML", "CSS", "JavaScript", "Figma"],
-      liveLink: "https://restaurant-website-ucd9.vercel.app/",
+      liveLink: "https://www.linkedin.com/posts/fatimaumer02_webdevelopment-frontend-bootstrap-activity-7367280753233035265-FsUU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFtyq54B5rg5kc1nvhqWpNf6-h4Fvhz_qk4",
       githubLink: "https://github.com/fatimaumer02/Restaurant-Website",
       category: "Frontend"
     },
@@ -57,16 +57,16 @@ export default function Projects() {
       category: "Frontend"
     },
 
-    {
-      id: 3,
-      title: "Car Website",
-      description: "A sleek and interactive car-themed web interface showcasing UI/UX design principles. Built with HTML, CSS, and JavaScript.",
-      image: car,
-      technologies: ["HTML", "Bootstrap", "JavaScript", "Figma"],
-      liveLink: "https://car-uiux.vercel.app/",
-      githubLink: "https://github.com/fatimaumer02/car-uiux",
-      category: "UI/UX "
-    },
+    // {
+    //   id: 3,
+    //   title: "Car Website",
+    //   description: "A sleek and interactive car-themed web interface showcasing UI/UX design principles. Built with HTML, CSS, and JavaScript.",
+    //   image: car,
+    //   technologies: ["HTML", "Bootstrap", "JavaScript", "Figma"],
+    //   liveLink: "https://car-uiux.vercel.app/",
+    //   githubLink: "https://github.com/fatimaumer02/car-uiux",
+    //   category: "UI/UX "
+    // },
       {
       id: 5,
       title: "Quote Keeper",
@@ -90,7 +90,7 @@ export default function Projects() {
     {
       id: 7,
       title: "Portfolio",
-      description: "A modern, responsive portfolio website with smooth animations, dark mode support, and interactive UI elements. Built with HTML and  CSS.",
+      description: " Desktop screen Website A modern, responsive portfolio website with smooth animations, dark mode support, and interactive UI elements. Built with HTML and  CSS.",
       image: portfolio,
       technologies: ["HTML", "CSS", "Figma", ],
       liveLink: "https://portfolio-sooty-pi-wfvp8x4e1y.vercel.app/",
@@ -120,7 +120,7 @@ export default function Projects() {
       {
       id: 10,
       title: "Tour Website",
-      description: "A responsive tour website showcasing travel destinations and services with a clean design. Built with HTML and CSS for a smooth browsing experience.",
+      description: "Desktop Screen Website.A responsive tour website showcasing travel destinations and services with a clean design.",
       image: tour,
       technologies: ["HTML", "CSS",  ],
       liveLink: "https://tour-website-jjh9.vercel.app/",
