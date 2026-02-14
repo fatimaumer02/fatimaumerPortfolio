@@ -150,11 +150,11 @@ export default function Projects() {
      {
       id: 13,
       title: "Calculate",
-      description: "A responsive Class Pulse app UI that displays classroom schedules, notifications, or student progress in a clean interface.",
+      description: "A simple and responsive Calculator web application.. It performs basic arithmetic operations with a clean user interface and smooth functionality.",
       image: cal,
       technologies: ["Html","CSS", "JavaScript" ],
-      liveLink: "https://youtu.be/BlDR_A0ZH18?si=Mf2Cx55u7pZHM1bi",
-      githubLink: "https://github.com/fatimaumer02/Class-Pulse-App",
+      liveLink: "https://calculator-beta-nine-81.vercel.app/",
+      githubLink: "https://github.com/fatimaumer02/calculator",
       category: "Frontend"
     },
 
