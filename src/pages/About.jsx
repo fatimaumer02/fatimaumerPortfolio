@@ -89,7 +89,7 @@ export default function About() {
         {/* CTA Buttons - Centered Below */}
         <div className="flex flex-col sm:flex-row gap-4 sm:gap-6 justify-center mt-12 lg:mt-16">
           <a
-            href="/resume.pdf"
+            href="/cv.pdf"
             download
             className="px-8 sm:px-10 py-4 sm:py-5 bg-linear-to-r from-cyan-500 to-blue-600 text-white rounded-full font-semibold text-base sm:text-lg hover:shadow-2xl hover:shadow-cyan-500/50 transform hover:scale-105 transition-all duration-300 text-center flex items-center justify-center gap-3"
           >
