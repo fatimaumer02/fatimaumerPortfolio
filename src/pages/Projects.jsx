@@ -26,26 +26,6 @@ export default function Projects() {
       githubLink: "https://github.com/fatimaumer02/Event-Management-System",
       category: "Full Stack"
     },
-     {
-      id: 2,
-      title: "Resturtant Website",
-      description: "A modern and responsive restaurant website showcasing menus, services, and reservations. Built with HTML, CSS, and JavaScript for a seamless user experience.",
-      image: restaurant,
-      technologies: ["HTML", "CSS", "JavaScript", "Figma"],
-      liveLink: "https://www.linkedin.com/posts/fatimaumer02_webdevelopment-frontend-bootstrap-activity-7367280753233035265-FsUU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFtyq54B5rg5kc1nvhqWpNf6-h4Fvhz_qk4",
-      githubLink: "https://github.com/fatimaumer02/Restaurant-Website",
-      category: "Frontend"
-    },
-       {
-      id: 13,
-      title: "Class Pulse App",
-      description: "A responsive Class Pulse app UI that displays classroom schedules, notifications, or student progress in a clean interface.",
-      image: classpulse,
-      technologies: ["React Native", "Expo", "Tailwind CSS","Firebase" ],
-      liveLink: "https://youtu.be/BlDR_A0ZH18?si=Mf2Cx55u7pZHM1bi",
-      githubLink: "https://github.com/fatimaumer02/Class-Pulse-App",
-      category: "Expo "
-    },
     {
       id: 4,
       title: "Quiz App",
@@ -56,17 +36,6 @@ export default function Projects() {
       githubLink: "https://github.com/fatimaumer02/Quiz",
       category: "Frontend"
     },
-
-    // {
-    //   id: 3,
-    //   title: "Car Website",
-    //   description: "A sleek and interactive car-themed web interface showcasing UI/UX design principles. Built with HTML, CSS, and JavaScript.",
-    //   image: car,
-    //   technologies: ["HTML", "Bootstrap", "JavaScript", "Figma"],
-    //   liveLink: "https://car-uiux.vercel.app/",
-    //   githubLink: "https://github.com/fatimaumer02/car-uiux",
-    //   category: "UI/UX "
-    // },
       {
       id: 5,
       title: "Quote Keeper",
@@ -76,26 +45,6 @@ export default function Projects() {
       liveLink: "https://km-quote-keeper-hqum.vercel.app/",
       githubLink: "https://github.com/fatimaumer02/KM-QuoteKeeper",
       category: "Full Stack"
-    },
-    {
-      id: 6,
-      title: "Joke Generator ",
-      description: "A fun web app that generates random jokes instantly. Built with HTML, CSS, and JavaScript for a simple, interactive experience.",
-      image: joke,
-      technologies: ["HTML", "CSS", "JavaScript"],
-      liveLink: "https://joke-generator-two-xi.vercel.app/",
-      githubLink: "https://github.com/fatimaumer02/Joke-Generator",
-      category: "Frontend"
-    },
-    {
-      id: 7,
-      title: "Portfolio",
-      description: " Desktop screen Website A modern, responsive portfolio website with smooth animations, dark mode support, and interactive UI elements. Built with HTML and  CSS.",
-      image: portfolio,
-      technologies: ["HTML", "CSS", "Figma", ],
-      liveLink: "https://portfolio-sooty-pi-wfvp8x4e1y.vercel.app/",
-      githubLink: "https://github.com/fatimaumer02/Portfolio-",
-      category: "UI/UX "
     },
      {
       id: 8,
@@ -116,46 +65,6 @@ export default function Projects() {
       liveLink: "https://sj-desgin.vercel.app/",
       githubLink: "https://github.com/fatimaumer02/SJ-Desgin",
       category: "UI/UX "
-    },
-      {
-      id: 10,
-      title: "Tour Website",
-      description: "Desktop Screen Website.A responsive tour website showcasing travel destinations and services with a clean design.",
-      image: tour,
-      technologies: ["HTML", "CSS",  ],
-      liveLink: "https://tour-website-jjh9.vercel.app/",
-      githubLink: "https://github.com/fatimaumer02/Tour-Website",
-      category: "UI/UX "
-    },
-      {
-      id: 11,
-      title: "Profile Card",
-      description: "A clean and responsive profile card UI component built with HTML and CSS to showcase user information like name, image, and social details.",
-      image: profile,
-      technologies: ["HTML", "CSS", "Figma", ],
-      liveLink: "https://profile-card-rho-ochre.vercel.app/",
-      githubLink: "https://github.com/fatimaumer02/Profile-card",
-      category: "UI/UX "
-    },
-      {
-      id: 12,
-      title: "Project Management",
-      description: "A modern, responsive portfolio website with smooth animations, dark mode support, and interactive UI elements. Built with HTML and  CSS.",
-      image: projmanag,
-      technologies: ["HTML", "CSS", "Figma", ],
-      liveLink: "https://project-management-eight-psi.vercel.app/",
-      githubLink: "https://github.com/fatimaumer02/Project-Management-",
-      category: "UI/UX "
-    },
-     {
-      id: 13,
-      title: "Calculate",
-      description: "A simple and responsive Calculator web application.. It performs basic arithmetic operations with a clean user interface and smooth functionality.",
-      image: cal,
-      technologies: ["Html","CSS", "JavaScript" ],
-      liveLink: "https://calculator-beta-nine-81.vercel.app/",
-      githubLink: "https://github.com/fatimaumer02/calculator",
-      category: "Frontend"
     },
 
   ];
