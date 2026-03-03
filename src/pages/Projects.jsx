@@ -46,16 +46,16 @@ export default function Projects() {
       githubLink: "https://github.com/fatimaumer02/KM-QuoteKeeper",
       category: "Full Stack"
     },
-     {
-      id: 8,
-      title: "Task Manager",
-      description: "A modern, responsive portfolio website with smooth animations, dark mode support, and interactive UI elements. Built with HTML and  CSS.",
-      image: "/projects/blog.jpg",
-      technologies: ["ReactJS", "TailwindCSS", "Mongodb","Express.JS" ],
-      liveLink: "https://portfolio-sooty-pi-wfvp8x4e1y.vercel.app/",
-      githubLink: "https://github.com/fatimaumer02/Portfolio-",
-      category: "UI/UX "
-    },
+    //  {
+    //   id: 8,
+    //   title: "Task Manager",
+    //   description: "A modern, responsive portfolio website with smooth animations, dark mode support, and interactive UI elements. Built with HTML and  CSS.",
+    //   image: "/projects/blog.jpg",
+    //   technologies: ["ReactJS", "TailwindCSS", "Mongodb","Express.JS" ],
+    //   liveLink: "https://portfolio-sooty-pi-wfvp8x4e1y.vercel.app/",
+    //   githubLink: "https://github.com/fatimaumer02/Portfolio-",
+    //   category: "UI/UX "
+    // },
      {
       id: 9,
       title: "SJ Desgin",
