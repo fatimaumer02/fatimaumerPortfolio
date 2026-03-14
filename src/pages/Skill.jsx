@@ -19,9 +19,7 @@ export default function Skills() {
         { id: 10, name: "Node.js", level: 80, category: "backend" },
         { id: 11, name: "Express.js", level: 78, category: "backend" },
         { id: 12, name: "MongoDB", level: 75, category: "backend" },
-        // { id: 14, name: "", level: 70, category: "backend" },
         { id: 13, name: "REST API", level: 85, category: "backend" },
-        // { id: 16, name: "", level: 65, category: "backend" },
         { id: 14, name: "Firebase", level: 72, category: "backend" },
 
         // Languages
@@ -41,7 +39,7 @@ export default function Skills() {
     const filterButtons = [
         { id: "all", label: "All Skills" },
         { id: "frontend", label: "Frontend" },
-        { id: "backend&db", label: "Backend & DB" },
+        { id: "backend", label: "Backend & DB" },
         { id: "languages", label: "Languages" },
         { id: "tools", label: "Tools" },
     ];
