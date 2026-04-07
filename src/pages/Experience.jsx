@@ -6,7 +6,7 @@ export default function Experience() {
       id: 1,
       title: "Web Developer Intern",
       company: "Arch Technology.",
-      period: "Feb 2026 - Present",
+      period: "Feb 2026 - March 2026",
       location: "Remote",
       description: "Building responsive web applications using React and Tailwind CSS. Collaborating with design teams to create intuitive user interfaces.",
       skills: ["React Js", "Tailwind CSS",  "Git", "Node.js"]
